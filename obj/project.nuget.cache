@@ -1,8 +1,55 @@
 {
   "version": 2,
-  "dgSpecHash": "mJyXlkQEfqg8rdPKViy/5afz5Xz+PdO2CcecnTsqFsJE3LCqYb6lFkdEeoEycCXkvW8KraBPRLHB52kE32SqaA==",
+  "dgSpecHash": "j6uY4UoAwA57r5Fs0Nhyil7h/K/GB/0/6iXqddpK9fiaBf5wgkXCmH9eQhPOHulFTegTiHPHQVGDhf2h7n9Bkg==",
   "success": true,
   "projectFilePath": "C:\\Program Files\\dotnet\\QueryEngine\\C# training.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\97252\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\linqkit\\1.1.27\\linqkit.1.1.27.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.1\\microsoft.codeanalysis.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.1\\microsoft.codeanalysis.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\4.0.1\\microsoft.codeanalysis.csharp.scripting.4.0.1.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.0.1\\microsoft.codeanalysis.scripting.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.sqlserver.management.sqlparser\\160.21292.55\\microsoft.sqlserver.management.sqlparser.160.21292.55.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.6.0\\runtime.native.system.data.sqlclient.sni.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.configuration.configurationmanager\\4.6.0\\system.configuration.configurationmanager.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.data.sqlclient\\4.7.0\\system.data.sqlclient.4.7.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.linq.dynamic\\1.0.8\\system.linq.dynamic.1.0.8.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.linq.dynamic.core\\1.2.14\\system.linq.dynamic.core.1.2.14.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.security.accesscontrol\\4.6.0\\system.security.accesscontrol.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.6.0\\system.security.cryptography.protecteddata.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.security.permissions\\4.6.0\\system.security.permissions.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.spatial\\5.8.5\\system.spatial.5.8.5.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Linq.Dynamic 1.0.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Linq.Dynamic",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

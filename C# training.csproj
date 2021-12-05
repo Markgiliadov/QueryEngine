@@ -6,4 +6,13 @@
     <RootNamespace>C__training</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="LinqKit" Version="1.1.27" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" Version="4.0.1" />
+    <PackageReference Include="Microsoft.SqlServer.Management.SqlParser" Version="160.21292.55" />
+    <PackageReference Include="System.Linq.Dynamic" Version="1.0.8" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.14" />
+    <PackageReference Include="System.Spatial" Version="5.8.5" />
+  </ItemGroup>
+
 </Project>

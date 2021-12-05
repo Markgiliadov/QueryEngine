@@ -14,12 +14,14 @@
         "outputPath": "C:\\Program Files\\dotnet\\QueryEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +39,32 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.1.27, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Scripting": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.SqlServer.Management.SqlParser": {
+              "target": "Package",
+              "version": "[160.21292.55, )"
+            },
+            "System.Linq.Dynamic": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.14, )"
+            },
+            "System.Spatial": {
+              "target": "Package",
+              "version": "[5.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
